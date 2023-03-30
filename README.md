@@ -7,4 +7,4 @@ This is an ongoing project that aims to create a movie review website. The websi
 
 Here's the initial design of the project:
 
-![Initial Design Image](/public/)
+![Initial Design Image](/public/Initial SpectralMotion-Home.png)
